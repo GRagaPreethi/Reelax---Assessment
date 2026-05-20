@@ -79,14 +79,12 @@ npm run build
 
 The production files will be output to the `dist/` folder.
 
-## Deployment on Vercel
+GitHub Repository:
+https://github.com/GRagaPreethi/Reelax---Assessment
 
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) and import your repository
-3. Vercel auto-detects Vite — no configuration needed
-4. Click **Deploy**
+Live Demo:
+https://pixel-perfect-react--pattuma2913.replit.app
 
-Your app will be live on a `.vercel.app` domain.
 
 ## Design
 
@@ -97,3 +95,5 @@ The UI matches a Figma billing/payment dashboard design with:
 - Subtle box shadows
 - Inter font family
 - Light gray borders and backgrounds
+
+
